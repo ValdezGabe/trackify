@@ -1,0 +1,6 @@
+trackify/
+├── client/               # React frontend
+├── server/               # Node.js/Express backend
+├── .gitignore
+├── README.md
+└── package.json
